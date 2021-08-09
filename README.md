@@ -1,3 +1,4 @@
 # MusicPortfolio
 
-npm start to run server
+
+to run server: npm start 
